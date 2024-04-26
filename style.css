@@ -1,0 +1,87 @@
+.header-img{
+    display: flex;
+    justify-content: center;
+}
+   
+.navebar{
+    background-color: lightgrey;
+    margin: 0px;
+padding: 3px;
+
+}
+   ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+
+   }
+   .about{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+ 
+   }
+   .team{
+    background-color: lightgrey;
+    left: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+   }
+   .form{
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 35%;
+   }
+   .form h5{
+    padding-left: 10px;
+   }
+   .full-width{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+   }
+
+  
+   footer{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+
+    background-color:lightgrey;
+    
+   }
+   .fottor-img{
+   
+   }
+   .input-feild{
+    height: 20px;
+    width: 300px;
+    border-radius: 4px;
+   }
+.selectitem{
+    height: 20px;
+    width: 300px;
+    border-radius: 4px;
+}
+   .about-you{
+    height: 150px;
+    width: 300px;
+    border-radius: 4px;
+   }
+   .radiobtn{
+  
+    margin-right: 191px;
+   }
+  .btn{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 590px;
+  
+  }
+    
